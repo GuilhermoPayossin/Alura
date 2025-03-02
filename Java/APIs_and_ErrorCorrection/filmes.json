@@ -1,0 +1,18 @@
+[
+  {
+    "Nome": "Matrix",
+    "AnoDeLancamento": 1993,
+    "InclusoNoPlano": false,
+    "SomaDeAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 60
+  },
+  {
+    "Nome": "Cars 3",
+    "AnoDeLancamento": 2017,
+    "InclusoNoPlano": false,
+    "SomaDeAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 10
+  }
+]
